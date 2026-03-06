@@ -12,5 +12,5 @@ chmod +x israfetch.fish
 ```
 and simply run it
 ```
-./israfetch.fish
+./israfetch
 ```
