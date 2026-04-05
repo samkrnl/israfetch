@@ -8,7 +8,7 @@ cd israfetch
 ```
 make it executable
 ```
-chmod +x israfetch.fish
+chmod +x israfetch
 ```
 and simply run it
 ```
