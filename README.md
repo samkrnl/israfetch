@@ -1,6 +1,6 @@
 clone this repo
 ```
-git clone https://github.com/larpmaxxer/israfetch
+git clone https://github.com/samkrnl/israfetch
 ```
 cd into it
 ```bash
